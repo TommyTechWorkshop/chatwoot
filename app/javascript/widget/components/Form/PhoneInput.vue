@@ -111,8 +111,8 @@ export default {
       selectedIndex: -1,
       showDropdown: false,
       searchCountry: '',
-      activeCountryCode: '',
-      activeDialCode: '',
+      activeCountryCode: 'CN',
+      activeDialCode: '+86',
       phoneNumber: '',
     };
   },
